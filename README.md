@@ -92,7 +92,17 @@
 
 ---
 <div align="center">
-  [![](https://visitcount.itsvg.in/api?id=misalsathara&icon=0&color=0)](https://visitcount.itsvg.in)
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2980b9&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlign=50&fontAlignY=70&fontColor=ffffff" />
+  <br>
+  <div style="background: linear-gradient(to right, #3498db, #2980b9); padding: 20px; border-radius: 10px; margin: 20px 0;">
+    <img src="https://profile-counter.glitch.me/misalsathsara/count.svg" alt="Visitor Count" />
+  </div>
+  <br>
+  <details>
+    <summary>💫 Show your support!</summary>
+    <br>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2980b9&height=60&section=footer" />
+  </details>
 </div>
 
 <!-- Last updated: March 2025 -->
