@@ -98,11 +98,7 @@
     <img src="https://profile-counter.glitch.me/misalsathsara/count.svg" alt="Visitor Count" />
   </div>
   <br>
-  <details>
-    <summary>💫 Show your support!</summary>
-    <br>
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2980b9&height=60&section=footer" />
-  </details>
+    <summary>💫 Leave a star to show your support!</summary>
 </div>
 
 <!-- Last updated: March 2025 -->
