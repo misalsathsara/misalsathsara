@@ -98,7 +98,7 @@
     <img src="https://profile-counter.glitch.me/misalsathsara/count.svg" alt="Visitor Count" />
   </div>
   <br>
-💫 Thanks for visiting! Consider leaving a ⭐ if you found my work interesting.<
+💫 Thanks for visiting! Consider leaving a ⭐ if you found my work interesting. 👋
 </div>
 
 <!-- Last updated: March 2025 -->
