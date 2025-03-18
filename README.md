@@ -1,7 +1,7 @@
 # 👨‍💻 Misal Sathsara | Full Stack Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3F95E6&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3F95E6&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;AI+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 💫 About Me
